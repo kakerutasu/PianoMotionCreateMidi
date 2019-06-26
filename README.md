@@ -1,2 +1,0 @@
-# PianoMotionCreateMidi
-PianoMotionCreateMidi for MikuMikuMoving

@@ -1,8 +1,8 @@
 # PianoMotionCreateMidi
+-----
 PianoMotionCreateMidi for MikuMikuMoving
 
 ## キーボード演奏モーション自動生成プラグイン
------
 
 作成/文責  ×＋
 
@@ -374,5 +374,3 @@ PmxPluginFingerIKmk4.dll
   - "IK Maker X"による腕切IK改造モデルでのエラーを修正
 * Version 0.8 2015-06-19
   - 最初の公開バージョン
-
----
